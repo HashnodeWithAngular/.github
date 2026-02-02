@@ -23,10 +23,10 @@ In other words - this project is very much like the starter kit that Hashnode pr
 
 ## LIVE VERSIONS
 
-| [![HahsnodeWithAngular dark](/profile/hashnode-withangular-dark.jpg)](https://hashnode.withangular.dev/) | [![HahsnodeWithAngular light](/profile/hashnode-withangular-light.jpg)](https://hahsnode.withangular.dev/) |
+| [![HahsnodeWithAngular dark](/profile/hashnode-withangular-dark.jpg)](https://hashnode-angular.ewoss.dev/) | [![HahsnodeWithAngular light](/profile/hashnode-withangular-light.jpg)](https://hashnode-angular.ewoss.dev/) |
 | - | - |                         
 
-### You can see the live versions on the [DEMO SITE](https://hashnode.withangular.dev/)                             
+### You can see the live versions on the [DEMO SITE](https://hashnode-angular.ewoss.dev/)                             
 
 ## Contributing
 
